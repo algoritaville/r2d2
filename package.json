@@ -1,0 +1,20 @@
+{
+  "name": "r2d2",
+  "version": "1.0.0",
+  "description": "Worked examples from Ethan R. Brown's \"Web Development with Node and Express\"",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
